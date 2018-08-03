@@ -21,6 +21,7 @@
     "express": "^4.16.3",
     "express-session": "^1.14.1",
     "express-validator": "^2.20.8",
+    "hoek": "^5.0.3",
     "jsonwebtoken": "^7.1.9",
     "method-override": "^2.3.6",
     "mongoose": "^4.5.10",
